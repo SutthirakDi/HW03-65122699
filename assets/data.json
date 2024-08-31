@@ -1,0 +1,12 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "fullname": "Sutthirak Dithongoon",
+        "email": "Sutthirak.di@mail.wu.ac.th",
+        "password": "1234567",
+        "gender": "Male"
+      }
+    ]
+  }
+  
